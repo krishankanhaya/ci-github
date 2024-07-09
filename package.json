@@ -1,7 +1,7 @@
 {
   "name": "ci-github",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://krishankanhaya.github.io/ci-github",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
